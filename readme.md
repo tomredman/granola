@@ -5,6 +5,8 @@
 ### System designed by James Cowling for his PhD thesis at MIT
 #### Thesis https://pmg.csail.mit.edu/papers/granola-thesis.pdf
 
+<img width="610" alt="redman-2024-02-05-09 30 11" src="https://github.com/tomredman/granola/assets/4225378/8b75905f-286b-49f6-9ca7-59a6ee5a696e">
+
 ## TODO
 - [ ] Add a section on the Granola paper
 - [ ] Add a section on the Granola implementation
