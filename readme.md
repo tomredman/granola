@@ -22,7 +22,14 @@ Granola is a low-overhead distributed transaction coordination system. It is des
 The Granola paper is a PhD thesis written by James Cowling at MIT. The paper is available at https://pmg.csail.mit.edu/papers/granola-thesis.pdf. The paper is a great resource for understanding the Granola system.
 
 ## Running the code
-To run the code, you need to have Python 3 installed. You will also need the `flask` and `colorama` packages:
+To run the code, you need to have Python 3 installed. The suggested way to run the code is in an isolated python environment:
+
+```
+python3 -m venv env
+source env/bin/activate
+```
+
+Then, install the `flask` and `colorama` packages:
 ```
 pip install flask
 pip install colorama
